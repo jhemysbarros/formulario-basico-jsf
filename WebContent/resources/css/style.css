@@ -1,0 +1,41 @@
+html {
+	background: url(http://thekitemap.com/images/feedback-img.jpg) no-repeat;
+	background-size: cover;
+	height: 100%;
+}
+
+form {
+	padding: 3em;
+	font-family: Tahoma;
+	font-size: 14px;
+	position: absolute;
+	top: 50%;
+	margin: -130px 0 0 -210px;
+	color: white;
+	-moz-border-radius: 7px;
+	-webkit-border-radius: 7px;
+	
+	/* Borda */
+	background-color: rgba(72, 72, 72, 0.4);
+	width: 300px;
+	height: 160px;
+	left: 50%;
+	border: 1px solid white;
+	border-radius: 15px;
+}
+
+h1 {
+	margin-top: 12px;
+	font-family: arial;
+	color: white;
+}
+
+input {
+	width: 110%;
+	border-radius: 5px;
+}
+
+textarea {
+	width: 109%;
+	border-radius: 5px;
+}
